@@ -52,6 +52,7 @@ class HazelcastManagementCenterAT5100 < Formula
     conflicts_with "hazelcast-management-center-5.4", because: "you can install only a single hazelcast-management-center package"
     conflicts_with "hazelcast-management-center-5.3", because: "you can install only a single hazelcast-management-center package"
     conflicts_with "hazelcast-management-center-5.2", because: "you can install only a single hazelcast-management-center package"
+    conflicts_with "hazelcast-management-center-5.10", because: "you can install only a single hazelcast-management-center package"
     conflicts_with "hazelcast-management-center-5.1", because: "you can install only a single hazelcast-management-center package"
     conflicts_with "hazelcast-management-center-5.0", because: "you can install only a single hazelcast-management-center package"
     conflicts_with "hazelcast-management-center-snapshot", because: "you can install only a single hazelcast-management-center package"
